@@ -1,5 +1,10 @@
 # Moje pierwsze repo
 
+# Autorzy
+
+autor1
+autor2
+
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccccccccccccccccc
