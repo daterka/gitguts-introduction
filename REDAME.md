@@ -4,5 +4,8 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccccccccccccccccc
 
+#opis rozszerzony
 dddddddddddddddddddddddddddddddddd
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+ffffffffffffffffffffffffffffffffff
