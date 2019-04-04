@@ -9,3 +9,6 @@ dddddddddddddddddddddddddddddddddd
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 ffffffffffffffffffffffffffffffffff
+
+#licencja
+gggggggggggggggggggggggggggggggggg
