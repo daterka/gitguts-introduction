@@ -17,3 +17,6 @@ ffffffffffffffffffffffffffffffffff
 
 #licencja
 gggggggggggggggggggggggggggggggggg
+=======
+
+MIT
